@@ -1,18 +1,18 @@
-# Overviewier of 
+# Overview
 
-The chassis is an advanced multihaul optical platform supporting transponders and line system cards. It is a 2RU chassis that delivers a universal transponder solution which provides excellent performance for metro, long-haul, and submarine applications.
+The chassis is an advanced multi-haul optical platform supporting transponders and line system cards. It is a 2RU chassis that delivers a universal transponder solution which provides excellent performance for metro, long-haul, and submarine applications.
 
-This chassis has slots for these modules:
+**This chassis has slots for these modules:**
 
-Removable controller
+- Removable controller
 
-Removable backup solid state drive (SSD)
+- Removable backup solid state drive (SSD)
 
-Two replaceable power supply units (PSU)
+- Two replaceable power supply units (PSU)
 
-Three replaceable fan modules
+- Three replaceable fan modules
 
-Four line cards
+- Four line cards
 
 ---
 
